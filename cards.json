@@ -1,0 +1,11 @@
+[
+  { "id": "spark",   "name": "Spark",   "cost": 0, "type": "energy",  "effects": [["GAIN_ENERGY", 1]] },
+  { "id": "strike",  "name": "Strike",  "cost": 0, "type": "attack",  "effects": [["GAIN_ATTACK", 1]] },
+
+  { "id": "surge",   "name": "Surge",   "cost": 2, "type": "energy",  "effects": [["GAIN_ENERGY", 2]] },
+  { "id": "blast",   "name": "Blast",   "cost": 3, "type": "attack",  "effects": [["GAIN_ATTACK", 3]] },
+  { "id": "insight", "name": "Insight", "cost": 2, "type": "utility", "effects": [["DRAW", 2]] },
+  { "id": "mend",    "name": "Mend",    "cost": 3, "type": "life",    "effects": [["GAIN_LIFE", 3]] },
+  { "id": "battery", "name": "Battery", "cost": 4, "type": "energy",  "effects": [["GAIN_ENERGY", 1], ["DRAW", 1]] },
+  { "id": "bulwark", "name": "Bulwark", "cost": 3, "type": "guard", "effects": [["GAIN_GUARD", 3]] }
+]
